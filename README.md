@@ -11,8 +11,11 @@
 - outcome variable: SALE PRICE
 - filled null featueres -- fillna(0)
 
+## Linear Regression
+RMSE = 511459.2792821024
+
 ## Decision Tree
-RMSE = 586323.6622074363
+RMSE = 584072.64556654
 
 ## KNeighbors
 RMSE = 527054.0135616323
