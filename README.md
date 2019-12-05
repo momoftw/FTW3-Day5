@@ -11,8 +11,16 @@
 - outcome variable: SALE PRICE
 - filled null featueres -- fillna(0)
 
+<<<<<<< HEAD
 ## Decision Tree
 RMSE = 586323.6622074363
+=======
+## Linear Regression
+RMSE = 511459.2792821024
+
+## Decision Tree
+RMSE = 584072.64556654
+>>>>>>> 765d21e68a6d7c1dd7f018cba04b47cbe7f762b1
 
 ## KNeighbors
 RMSE = 527054.0135616323
@@ -37,3 +45,7 @@ RMSE = _not enough memory_
 ### Recommendations
 - clean the features (drop outliers)
 - study other parameters of each model for the models to be tweaked
+<<<<<<< HEAD
+=======
+
+>>>>>>> 765d21e68a6d7c1dd7f018cba04b47cbe7f762b1
